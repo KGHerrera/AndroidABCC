@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidABCC</string>
+    <string name="altas">altas</string>
+    <string name="bajas">bajas</string>
+    <string name="cambios">cambios</string>
+    <string name="consultas">consultas</string>
+    <string name="numero_control">numero de control</string>
+    <string name="nombre">nombre</string>
+</resources>
